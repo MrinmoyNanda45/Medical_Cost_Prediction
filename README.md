@@ -16,7 +16,7 @@ A Streamlit-based web application that predicts annual medical insurance expense
 
 ## 🚀 Live Demo
 
-*Coming Soon – Deploy it using [Streamlit Cloud](https://streamlit.io/cloud)*
+*Coming Soon – Deploy it using [Streamlit Cloud](https://mrinmoynanda-medical-expenses-prediction.streamlit.app/)*
 
 ---
 
