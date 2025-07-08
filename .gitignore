@@ -1,0 +1,23 @@
+# 🐍 Virtual environment folders
+.venv/
+venv/
+env/
+
+# 🔄 Bytecode and cache
+__pycache__/
+*.py[cod]
+
+# 🧠 Model & artifact files
+*.pkl
+*.joblib
+
+# 🧪 Streamlit cache
+.streamlit/
+
+# 📓 Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# 🧰 IDE and OS files
+.vscode/
+.DS_Store
+Thumbs.db
